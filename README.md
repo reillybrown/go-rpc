@@ -5,7 +5,7 @@ This project serves as an easy-to-use boilerplate for generating RPC services.
 - [x] simple gRPC example
 - [x] centralized proto files
 - [x] uses TCP
-- [ ] add Makefile
+- [x] add Makefile
 - [ ] auto compiles any .proto changes
 - [ ] cross-language examples
 - [ ] builds a server cli
